@@ -284,7 +284,7 @@ body {
   top: 100px; /* Adjust the distance from the top as needed */
   left: 50%;
   transform: translateX(-50%);
-  font-family: "Brush Script MT", cursive;
-  font-size: 49px; /* Adjust the font size as needed */
+  font-family: 'Dancing Script', cursive;
+  font-size: 48px; /* Adjust the font size as needed */
   color: #ffead2; /* Adjust the color as needed */
 }
