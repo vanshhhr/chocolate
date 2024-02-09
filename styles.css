@@ -285,6 +285,6 @@ body {
   left: 50%;
   transform: translateX(-50%);
   font-family: "Brush Script MT", cursive;
-  font-size: 69px; /* Adjust the font size as needed */
+  font-size: 49px; /* Adjust the font size as needed */
   color: #ffead2; /* Adjust the color as needed */
 }
