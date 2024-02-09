@@ -226,7 +226,7 @@ body {
   position: absolute;
   content:"Hover Me";
   color: #ffead2;
-  font-family: "Brush Script MT", cursive;
+  font-family: "Dancing Script", cursive;
   padding-top: 17px;
   padding-bottom: 17px;
   padding-left: 25px;
@@ -255,7 +255,7 @@ body {
   width: 100%;
   display: none;
   color: #ffead2;
-  font-family: "Brush Script MT", cursive;
+  font-family: "Dancing Script", cursive;
   font-size: 25px;
   transition: .1;
 }
